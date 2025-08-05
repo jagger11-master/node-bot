@@ -1,0 +1,29 @@
+[33mcommit c1480a9366f4bff4476d68e6b0f3316739efd6dd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: lexwise-jr <jilalaalex@gmail.com>
+Date:   Tue Aug 5 13:37:07 2025 +0300
+
+    Add .env to .gitignore
+
+[33mcommit 91fe2ffdef8f13805f5622c6929764175b234de7[m
+Author: lexwise-jr <jilalaalex@gmail.com>
+Date:   Tue Aug 5 13:35:54 2025 +0300
+
+    Remove .env file with secret
+
+[33mcommit 8a6445a0aad0157520935524335db96893a9203e[m
+Author: lexwise-jr <jilalaalex@gmail.com>
+Date:   Tue Aug 5 13:27:58 2025 +0300
+
+    Added project files
+
+[33mcommit 4420d4f1155c4e8f9f72a110478eab13f8842f7f[m
+Author: lexwise-jr <jilalaalex@gmail.com>
+Date:   Tue Aug 5 13:21:42 2025 +0300
+
+    ignore env folder
+
+[33mcommit 8b34a0fc95c7ae0b5e48d53d230cd5258e0f6fe4[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: lexwise-jr <jilalaalex@gmail.com>
+Date:   Tue Aug 5 12:38:48 2025 +0300
+
+    Add requirements.txt file
